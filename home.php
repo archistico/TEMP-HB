@@ -10,7 +10,7 @@
         <meta name="author" content="Emilie Rollandin">
         <link rel="icon" href="http://getbootstrap.com/favicon.ico">
 
-        <title>Helpbook</title>
+        <title>Helpbook - Gestionale</title>
 
         <!-- Bootstrap core CSS -->
         <link href="css/bootstrap.css" rel="stylesheet">
