@@ -12,9 +12,9 @@ error_reporting(E_ALL);
 /**
  * Define database parameters here
  */
-define("DB_USER", 'archisti_cp');
-define("DB_PASSWORD", 'rWEfz4XS27wvTudp');
-define("DB_NAME", 'archisti_compiti');
+define("DB_USER", '');
+define("DB_PASSWORD", '');
+define("DB_NAME", '');
 define("DB_HOST", 'localhost');
 define("OUTPUT_DIR", 'BK');
 define("TABLES", '*');
